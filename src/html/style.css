@@ -1,0 +1,12 @@
+body	{background-color: #aaaaaa; padding-bottom: 30px;}	
+hr		{height: 1px; color: #232323; background-color: width: 100%;}
+p		{text-align: center; font-size: 16px; font-family: verdana; color:#FFFFFF;}
+h1		{font-size: 32px; margin-left: auto; margin-right: auto; padding: 1%; text-shadow: 2px 2px 8px #000000;}
+A:link		{color:#45B5FF}
+A:visited	{color:#A3C3D9}
+A:active	{color:#FF0000}
+A:hover		{color:#FF0000}
+#title	{margin-left:auto; margin-right:auto;}
+#info	{margin-left:auto; margin-right:auto;}
+#cont	{text-align: center; margin-left: auto; margin-right: auto;}
+p.info	{font-size: 10px; padding-bottom: 15px;}
